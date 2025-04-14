@@ -1,0 +1,7 @@
+{
+  "homepage": "https://norbikaa123.github.io/todo",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
